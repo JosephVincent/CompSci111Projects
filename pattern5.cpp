@@ -1,3 +1,7 @@
+//Program creates a pattern using for loops.
+//Implemented By: Joseph Vincent
+
+
 #include <iomanip>
 #include <iostream>
 

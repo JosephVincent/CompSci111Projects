@@ -1,8 +1,8 @@
-/*HW4-1               
+/*              
 PURPOSE: Program finds 10 random numbers, the greatest and smallest amongst that set
 calculates the total, calculates the average, and prints all of this information.
 IMPLEMENTED BY: Joseph Vincent
-DATE: 10-20-2017
+DATE: 10-20-2016
 */
 
 
